@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Be2_Store
 build_property.RootNamespace = Be2_Store
-build_property.ProjectDir = D:\University\FALL_2023\PRN221\Projects\Project_BE2_Store\Be2_Store\
+build_property.ProjectDir = E:\University\FALL_2023\PRN221\Projects\Be2_Store_G2_PRN221\Project_BE2_Store\Be2_Store\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\University\FALL_2023\PRN221\Projects\Project_BE2_Store\Be2_Store
+build_property.MSBuildProjectDirectory = E:\University\FALL_2023\PRN221\Projects\Be2_Store_G2_PRN221\Project_BE2_Store\Be2_Store
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/University/FALL_2023/PRN221/Projects/Project_BE2_Store/Be2_Store/Views/Home/Index.cshtml]
+[E:/University/FALL_2023/PRN221/Projects/Be2_Store_G2_PRN221/Project_BE2_Store/Be2_Store/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/University/FALL_2023/PRN221/Projects/Project_BE2_Store/Be2_Store/Views/Home/Privacy.cshtml]
+[E:/University/FALL_2023/PRN221/Projects/Be2_Store_G2_PRN221/Project_BE2_Store/Be2_Store/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/University/FALL_2023/PRN221/Projects/Project_BE2_Store/Be2_Store/Views/Shared/Error.cshtml]
+[E:/University/FALL_2023/PRN221/Projects/Be2_Store_G2_PRN221/Project_BE2_Store/Be2_Store/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/University/FALL_2023/PRN221/Projects/Project_BE2_Store/Be2_Store/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/University/FALL_2023/PRN221/Projects/Be2_Store_G2_PRN221/Project_BE2_Store/Be2_Store/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/University/FALL_2023/PRN221/Projects/Project_BE2_Store/Be2_Store/Views/_ViewImports.cshtml]
+[E:/University/FALL_2023/PRN221/Projects/Be2_Store_G2_PRN221/Project_BE2_Store/Be2_Store/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/University/FALL_2023/PRN221/Projects/Project_BE2_Store/Be2_Store/Views/_ViewStart.cshtml]
+[E:/University/FALL_2023/PRN221/Projects/Be2_Store_G2_PRN221/Project_BE2_Store/Be2_Store/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/University/FALL_2023/PRN221/Projects/Project_BE2_Store/Be2_Store/Views/Shared/_Layout.cshtml]
+[E:/University/FALL_2023/PRN221/Projects/Be2_Store_G2_PRN221/Project_BE2_Store/Be2_Store/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-txral8lohq

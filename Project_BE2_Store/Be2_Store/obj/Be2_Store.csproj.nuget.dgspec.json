@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\FALL_2023\\PRN221\\Projects\\Project_BE2_Store\\Be2_Store\\Be2_Store.csproj": {}
+    "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\Be2_Store.csproj": {}
   },
   "projects": {
-    "D:\\University\\FALL_2023\\PRN221\\Projects\\Project_BE2_Store\\Be2_Store\\Be2_Store.csproj": {
+    "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\Be2_Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\FALL_2023\\PRN221\\Projects\\Project_BE2_Store\\Be2_Store\\Be2_Store.csproj",
+        "projectUniqueName": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\Be2_Store.csproj",
         "projectName": "Be2_Store",
-        "projectPath": "D:\\University\\FALL_2023\\PRN221\\Projects\\Project_BE2_Store\\Be2_Store\\Be2_Store.csproj",
+        "projectPath": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\Be2_Store.csproj",
         "packagesPath": "C:\\Users\\lethi\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\FALL_2023\\PRN221\\Projects\\Project_BE2_Store\\Be2_Store\\obj\\",
+        "outputPath": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lethi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10692,9 +10692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Library\\Library.csproj",
-      "projectName": "Library",
-      "projectPath": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Library\\Library.csproj",
+      "projectUniqueName": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Library\\BusinessObject.csproj",
+      "projectName": "BusinessObject",
+      "projectPath": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Library\\BusinessObject.csproj",
       "packagesPath": "C:\\Users\\lethi\\.nuget\\packages\\",
       "outputPath": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Library\\obj\\",
       "projectStyle": "PackageReference",

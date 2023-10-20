@@ -9,11 +9,32 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data Layer", "3. Data La
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business Layer", "2. Business Layer", "{4F7339C0-D7EF-490E-BBAD-AB99F0305707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B6549C21-C092-4827-8BA2-C3FD1CCD6F97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{B6549C21-C092-4827-8BA2-C3FD1CCD6F97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin", "Admin\Admin.csproj", "{ACC4BB0C-37F5-4D99-B575-41618EB21E5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Admin", "Admin\Admin.csproj", "{ACC4BB0C-37F5-4D99-B575-41618EB21E5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Be2_Store", "Be2_Store\Be2_Store.csproj", "{BF7880F4-3647-4BEC-BDDA-054BECB149BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Be2_Store", "Be2_Store\Be2_Store.csproj", "{BF7880F4-3647-4BEC-BDDA-054BECB149BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{A2D7759E-0D58-4A01-B4C7-A9EB992563A0}"
+	ProjectSection(SolutionItems) = preProject
+		Be2_Store\Models\Account.cs = Be2_Store\Models\Account.cs
+		Be2_Store\Models\Category.cs = Be2_Store\Models\Category.cs
+		Be2_Store\Models\Customer.cs = Be2_Store\Models\Customer.cs
+		Be2_Store\Models\Employee.cs = Be2_Store\Models\Employee.cs
+		Be2_Store\Models\Order.cs = Be2_Store\Models\Order.cs
+		Be2_Store\Models\OrderDetail.cs = Be2_Store\Models\OrderDetail.cs
+		Be2_Store\Models\Payment.cs = Be2_Store\Models\Payment.cs
+		Be2_Store\Models\Product.cs = Be2_Store\Models\Product.cs
+		Be2_Store\Models\Role.cs = Be2_Store\Models\Role.cs
+		Be2_Store\Models\Stock.cs = Be2_Store\Models\Stock.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{0AE8438F-FF5E-4F1E-BF87-E6FC1D92911A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DBContext", "DBContext", "{A8DAB7CB-ABB2-4964-9DB7-FE92F240033D}"
+	ProjectSection(SolutionItems) = preProject
+		Be2_Store\Models\GroceryContext.cs = Be2_Store\Models\GroceryContext.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +62,8 @@ Global
 		{B6549C21-C092-4827-8BA2-C3FD1CCD6F97} = {DB71DC81-DA5D-4CED-A901-509DB5D0E567}
 		{ACC4BB0C-37F5-4D99-B575-41618EB21E5B} = {F2A111D7-491F-48E1-A958-36FFF3A11052}
 		{BF7880F4-3647-4BEC-BDDA-054BECB149BC} = {F2A111D7-491F-48E1-A958-36FFF3A11052}
+		{A2D7759E-0D58-4A01-B4C7-A9EB992563A0} = {4F7339C0-D7EF-490E-BBAD-AB99F0305707}
+		{A8DAB7CB-ABB2-4964-9DB7-FE92F240033D} = {4F7339C0-D7EF-490E-BBAD-AB99F0305707}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {544941A7-D7E3-4193-AC24-71AF028EE1D5}

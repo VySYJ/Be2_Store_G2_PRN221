@@ -1,0 +1,187 @@
+﻿
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Login */
+.login-box {
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    box-shadow: 0px 0px 56px rgba(0, 38, 3, 0.08);
+    border-radius: 8px;
+    width: 520px;
+    height: 371px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px;
+    gap: 20px;
+}
+
+/* Sign In */
+.sign-in {
+    font-size: 32px;
+    font-weight: 600;
+    color: #1A1A1A;
+}
+
+/* Field */
+.field {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+    /* Input Field */
+    .field .input-field {
+        width: 100%;
+        padding: 14px 16px;
+        background: #FFFFFF;
+        border: 1px solid #E6E6E6;
+        border-radius: 6px;
+    }
+
+    /* Email */
+    .field label[for="email"] {
+        font-size: 16px;
+        color: #999999;
+    }
+
+    /* Password */
+    .field label[for="password"] {
+        font-size: 16px;
+        color: #999999;
+    }
+
+/* Group */
+.group {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+/* Vector */
+.vector {
+    width: 49%;
+    height: 49px;
+    background: #FFFFFF;
+    border: 1.5px solid #1A1A1A;
+}
+
+/* Links */
+.links {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Remember */
+.remember {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+    /* Checkbox */
+    .remember input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+    }
+
+    /* Normal */
+    .remember label[for="remember"] {
+        background: #FFFFFF;
+        border: 1px solid #CCCCCC;
+        border-radius: 3px;
+        font-size: 14px;
+        color: #666666;
+    }
+
+/* Forget Password */
+.forget-password {
+    font-size: 14px;
+    color: #666666;
+}
+
+/* Button */
+.button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 14px 32px;
+    background: #0ac610;
+    border-radius: 43px;
+    border: 2px solid #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 600;
+    color: #FFFFFF;
+    transition: background-color 0.3s; /* Thêm hiệu ứng chuyển đổi màu nền */
+    /* Các thuộc tính mặc định */
+}
+
+    .button:hover {
+        background: #0a9e10; /* Màu nền khi hover */
+        /* Các thuộc tính hover khác */
+    }
+
+
+/* Don't have account */
+.dont-have-account {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+    /* Don’t have account? */
+    .dont-have-account a.register {
+        font-weight: 500;
+        color: #1A1A1A;
+    }
+
+/* CSS */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    max-width: 80%;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}

@@ -1,4 +1,5 @@
 ﻿using BusinessObject;
+using BusinessObject.BusinessObject;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -25,6 +26,8 @@ namespace DataAccess
                     return instance;
                 }
             }
+
+
         }
 
         public IEnumerable<Account> GetAccountList()
@@ -32,7 +35,7 @@ namespace DataAccess
             var account = new List<Account>();
             try
             {
-                using var context = new ShoesStoreContext();
+                using var context = new GroceryContext();
                 account = context.Accounts.ToList();
             }
             catch (Exception e)
@@ -43,13 +46,13 @@ namespace DataAccess
             return account;
         }
 
-        public Account GetAccountByEmail(string email)
+        public Account GetAccountByUserName(string Username)
         {
             Account account = null;
             try
             {
-                using var context = new ShoesStoreContext();
-                account = context.Accounts.SingleOrDefault(c => c.Email == email);
+                using var context = new GroceryContext();
+                account = context.Accounts.SingleOrDefault(c => c.Username == Username);
             }
             catch (Exception ex)
             {
@@ -57,6 +60,32 @@ namespace DataAccess
                 throw new Exception(ex.Message);
             }
             return account;
+        }
+
+        public Account CreateAccount(Account account)
+        {
+            using var context = new GroceryContext();
+            try
+            {
+                while (GetAccountByUserName(account.Username) != null)
+                {
+                    return null;
+                }
+                var newAccount = new Account
+                {
+                    Username = account.Username,
+                    Password = account.Password,
+                    Email = account.Email,
+                    RoleId = 2,
+                };
+                context.Accounts.Add(newAccount);
+                context.SaveChanges();
+                return newAccount;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.ToString());
+            }
         }
     }
 }

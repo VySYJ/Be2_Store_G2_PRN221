@@ -1,0 +1,180 @@
+﻿@model BusinessObject.BusinessObject.Account
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="create-account-box">
+                <h1 class="create-account">Tạo tài khoản</h1>
+                <div class="field">
+                    <label asp-for="Username" class="control-label">Tên đăng nhập</label>
+                    <input asp-for="Username" class="input-field" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="field">
+                    <label asp-for="Email" class="control-label">Email</label>
+                    <input asp-for="Email" type="email" id="email" class="input-field" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="field">
+                    <label asp-for="Password" class="control-label">Mật khẩu</label>
+                    <input asp-for="Password" id="password" class="input-field" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <button value="Create" class="button">Đăng kí</button>
+                <div class="dont-have-account">
+                    <p>Đã có tài khoản? <a asp-controller="Login" asp-action="Login">Đăng nhập</a></p>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<style>
+
+
+    body {
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background-color: #f0f0f0;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    /* Create Account */
+    .create-account-box {
+        background: #FFFFFF;
+        border: 1px solid #F2F2F2;
+        box-shadow: 0px 0px 56px rgba(0, 38, 3, 0.08);
+        border-radius: 8px;
+        width: 520px;
+        height: 600px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 24px;
+        gap: 20px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    /* Create Account */
+    .create-account {
+        font-size: 32px;
+        font-weight: 600;
+        color: #1A1A1A;
+    }
+
+    /* Field */
+    .field {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+        /* Input Field */
+        .field .input-field {
+            width: 100%;
+            padding: 14px 16px;
+            background: #FFFFFF;
+            border: 1px solid #E6E6E6;
+            border-radius: 6px;
+        }
+
+        /* Email */
+        .field label[for="email"] {
+            font-size: 16px;
+            color: #999999;
+        }
+
+        /* Password */
+        .field label[for="password"], .field label[for="confirm-password"] {
+            font-size: 16px;
+            color: #999999;
+        }
+
+    /* Group */
+    .group {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+    }
+
+
+
+    /* Links */
+    .links {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    /* Remember */
+    .remember {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+    }
+
+        /* Checkbox */
+        .remember input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+        }
+
+        /* Normal */
+        .remember label[for="accept-terms"] {
+            background: #FFFFFF;
+            border: 1px solid #CCCCCC;
+            border-radius: 3px;
+            width: 208px;
+            font-size: 14px;
+            color: #666666;
+        }
+
+    /* Button */
+    .button {
+        width: 100%;
+        padding: 14px 32px;
+        background: #0ac610;
+        border-radius: 43px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 14px;
+        font-weight: 600;
+        color: #FFFFFF;
+        border: 2px solid #fff;
+    }
+
+
+    /* Don't have account */
+    .dont-have-account {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+        /* Already have account */
+        .dont-have-account a.login {
+            font-weight: 500;
+            color: #1A1A1A;
+        }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

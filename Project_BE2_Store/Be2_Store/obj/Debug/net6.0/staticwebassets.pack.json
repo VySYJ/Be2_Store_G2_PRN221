@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Be2_Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Be2_Store.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\Rating.png",
+      "PackagePath": "staticwebassets\\Images\\Rating.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\addtocart2x.png",
+      "PackagePath": "staticwebassets\\Images\\addtocart2x.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\addtocartACTIVE2x.png",
+      "PackagePath": "staticwebassets\\Images\\addtocartACTIVE2x.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\banchaidanhrang.jpg",
+      "PackagePath": "staticwebassets\\Images\\banchaidanhrang.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\banhkeo.jpg",
+      "PackagePath": "staticwebassets\\Images\\banhkeo.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\banner.png",
+      "PackagePath": "staticwebassets\\Images\\banner.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\banner_.png",
+      "PackagePath": "staticwebassets\\Images\\banner_.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\be2_logo2.jpg",
+      "PackagePath": "staticwebassets\\Images\\be2_logo2.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\bia.jpg",
+      "PackagePath": "staticwebassets\\Images\\bia.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\botngot.jpg",
+      "PackagePath": "staticwebassets\\Images\\botngot.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\dauan.jpg",
+      "PackagePath": "staticwebassets\\Images\\dauan.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\duongcat.jpg",
+      "PackagePath": "staticwebassets\\Images\\duongcat.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\giayvesinh.png",
+      "PackagePath": "staticwebassets\\Images\\giayvesinh.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\hatnem.jpg",
+      "PackagePath": "staticwebassets\\Images\\hatnem.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\hutieu.png",
+      "PackagePath": "staticwebassets\\Images\\hutieu.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\kemdanhrang.jpg",
+      "PackagePath": "staticwebassets\\Images\\kemdanhrang.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\khangiay.png",
+      "PackagePath": "staticwebassets\\Images\\khangiay.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\migoi.jpg",
+      "PackagePath": "staticwebassets\\Images\\migoi.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\muoi.jpg",
+      "PackagePath": "staticwebassets\\Images\\muoi.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\nuocmam.jpg",
+      "PackagePath": "staticwebassets\\Images\\nuocmam.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\nuocngot.jpg",
+      "PackagePath": "staticwebassets\\Images\\nuocngot.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\nuocsuoi.jpg",
+      "PackagePath": "staticwebassets\\Images\\nuocsuoi.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\suadac.jpg",
+      "PackagePath": "staticwebassets\\Images\\suadac.jpg"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\Images\\suatuoi.png",
+      "PackagePath": "staticwebassets\\Images\\suatuoi.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\header-footer.css",
+      "PackagePath": "staticwebassets\\css\\header-footer.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\listProduct.css",
+      "PackagePath": "staticwebassets\\css\\listProduct.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\slider\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\slider\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\slider\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\slider\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\slider\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\css\\slider\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\slider\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\css\\slider\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\css\\slider\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\slider\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\css\\slider\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\University\\FALL_2023\\PRN221\\Projects\\Be2_Store_G2_PRN221\\Project_BE2_Store\\Be2_Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Be2_Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Be2_Store.props",
+      "PackagePath": "build\\Be2_Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Be2_Store.props",
+      "PackagePath": "buildMultiTargeting\\Be2_Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Be2_Store.props",
+      "PackagePath": "buildTransitive\\Be2_Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

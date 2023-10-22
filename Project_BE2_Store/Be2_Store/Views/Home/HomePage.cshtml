@@ -1,0 +1,85 @@
+﻿@model IEnumerable<BusinessObject.BusinessObject.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="owl-carousel owl">
+    <div class="item-slider"><img src="../Images/banner.png" alt=""></div>
+    <div class="item-slider"><img src="../Images/_banner.png" alt=""></div>
+</div>
+<section>
+    <div class="container justify-content-center">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control input-text" placeholder="Search products...." aria-label="Recipient's username" aria-describedby="basic-addon2" id="searchInput">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-warning btn-lg" type="button" id="searchButton">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="category">
+    <h1>Phân loại</h1>
+    <!--use for loop to load list category in database in here-->
+    <div class="category-list dp-flex gap30 flex-wrap">
+        @foreach (var category in ViewBag.CategoryList)
+        {
+            <a href="#" class="category-item-link">
+                <div class="category-item">
+                    <img src="" alt="category-item" class="category-img">
+                    <h4 class="category-title">@category.CategoryName</h4>
+                </div>
+            </a>
+        }
+    </div>
+    <!--use for loop to load list category in database in here-->
+</section>
+<section class="product-popular">
+    <h1>Sản phẩm</h1>
+    <div class="product-list dp-flex flex-wrap">
+        <!--use for loop to load list product in database in here-->
+        <!--product item1-->
+        @foreach (var product in Model)
+        {
+            <a href="#" class="product-item-link">
+                <div class="product-item position-relative">
+                    <img src="~/Images/@product.Image" alt="product-item" class="product-img">
+                    <div class="pl-20 pr-20">
+                        <div class="product-info">
+                            <p class="product-title">@product.ProductName</p>
+                            <p class="price">@product.Price đ</p>
+                            <span><img src="~/Images/Rating.png" alt="star-rating"></span>
+                        </div>
+                        @* <i class="fas fa-shopping-cart"></i> *@
+                        <a asp-controller="ShoppingCart" asp-action="ViewCart">
+                            <div class="btn-addcart position-absolute" asp-controller="" asp-action="Index"></div>
+                        </a>
+                    </div>
+                </div>
+            </a>
+        }
+        <!--product item1-->
+    </div>
+</section>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var searchButton = document.getElementById('searchButton');
+        var searchInput = document.getElementById('searchInput');
+
+        searchButton.addEventListener('click', function () {
+            var searchKeyword = searchInput.value.trim();
+        });
+
+        searchInput.addEventListener('keyup', function (event) {
+            if (event.keyCode === 13) {
+                var searchKeyword = searchInput.value.trim();
+            }
+        });
+    });
+</script>

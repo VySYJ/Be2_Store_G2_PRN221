@@ -5,45 +5,90 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Be2_Store</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Be2_Store.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/header-footer.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/listProduct.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/owl.carousel.css">
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 d-flex justify-content-between">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Be2_Store</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Be2 Store</a>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                    <ul class="navbar-nav flex-grow-1 align-items-center align-content-center">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Giới Thiệu</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Liên Hệ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Tư Vấn</a>
                         </li>
                     </ul>
+                    <div class="header-auth">
+                        <a class="singin" asp-area="" asp-controller="Login" asp-action="Login">Đăng nhập</a>
+                        <a class="singup" asp-area="" asp-controller="Login" asp-action="Register">Đăng ký</a>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
+    @* <header class="header-custom">
+        <div class="container-custom">
+            <div class="header-container-custom">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Be2 Store</a>
+                <ul class="menu-custom">
+                    <li class="menu-item-custom">
+                        <a class="menu-link-custom home-custom" asp-area="" asp-controller="Home" asp-action="Index">Trang Chủ</a>
+                    </li>
+                    <li class="menu-item-custom">
+                        <a class="menu-link-custom home-custom" asp-area="" asp-controller="Home" asp-action="Index">Giới thiệu</a>
+                    </li>
+                    <li class="menu-item-custom">
+                        <a class="menu-link-custom home-custom" asp-area="" asp-controller="Home" asp-action="Index">Liên hệ</a>
+                    </li>
+                    <li class="menu-item-custom">
+                        <a class="menu-link-custom home-custom" asp-area="" asp-controller="Home" asp-action="Index">Tư vấn</a>
+                    </li>
+                </ul>
+                <div class="header-auth">
+                    <a href="#" class="singin">Đăng nhập</a>
+                    <a href="#" class="singup">Đăng ký</a>
+                </div>
+            </div>
+        </div>
+    </header> *@
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - Be2_Store - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+     <footer>
+        <div class="footer-content">
+            <h3>Be2 Store</h3>
+            <p>Hãy cùng chúng tôi thực hiện hành trình mua sắm tiện lợi, an toàn và thú vị. Hãy khám phá trang web của
+                chúng tôi và trải nghiệm sự khác biệt mà chúng tôi mang lại ngay từ bây giờ!</p>
+            <ul class="socials">
+                <a href="#">Trang chủ</a>
+                <a href="#">Giới thiệu</a>
+                <a href="#">Liên hệ</a>
+                <a href="#">Tư vấn</a>
+            </ul>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/slider.js" asp-append-version="true"></script>
+    <script src="~/js/owl.carousel.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
